@@ -6,7 +6,7 @@ Sourcode and Resources for Django
 
 # Installation
 
-- 1 - clone repo
+- 1 - clone repo https://github.com/dhanubalde/Django-2023-master.git
 - 2 - create a virtual environment and activate
 - - pip install virtualenv
 - - virtualenv envname
