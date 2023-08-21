@@ -39,13 +39,15 @@ Sourcode and Resources for Django
 - Postgres
 - Django REST Framework
 
+
 # Home Page
 
-<img src="./resources/images/Devsearch Home.jpg">
+<img src="./resources/images/profile.png">
 
 # Projects Page
 
 <img src="./resources/images/DevSearch Projects.jpg">
+
 
 # User Inbox
 
