@@ -1,7 +1,7 @@
 <!-- @format -->
 
 # DevSearch
-
+deploy links on railway: https://web-production-7fd7.up.railway.app
 Sourcode and Resources for Django
 
 # Installation
